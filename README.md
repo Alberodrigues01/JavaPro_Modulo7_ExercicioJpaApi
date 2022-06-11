@@ -12,6 +12,7 @@ nos repositorios deve ser feito utilizando o padrão JSON.
 Atentar especialmente para a estrutura do "script" JSON que deve ser enviado para inserção de informações nas tabelas
 
 Patient:
+
 { 
     "name" : "Carla",
     "birthdate": "22/01/1989",
@@ -19,6 +20,7 @@ Patient:
 }
 
 Doctor:
+
 {
     "name" : "Edson",
     "department" : "Cadiologia",
@@ -26,6 +28,7 @@ Doctor:
 }
 
 E especialmente o HospitalizationHistory:
+
 {
     "patient":{
     "id":"1"
