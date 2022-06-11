@@ -43,5 +43,5 @@ E especialmente o HospitalizationHistory:
     "description": "Arritimia"
 }
 
-O POST da alimentação das tabelas deve ser feito de uma inclusão por vez (um paciente por vez, um médico por vez e uma internação por vez).
+O POST para inserção de dados nas tabelas deve ser feito de uma inclusão por vez (um paciente por vez, um médico por vez e uma internação por vez).
 
