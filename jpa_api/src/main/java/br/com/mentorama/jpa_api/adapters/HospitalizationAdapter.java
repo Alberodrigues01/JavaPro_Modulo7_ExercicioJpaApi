@@ -40,12 +40,5 @@ public class HospitalizationAdapter {
         return hospitalizationByDoctors;
     }
 
-    /*public List <Doctor> doctors = new ArrayList<>() {
-
-        Map<String, Long> quantityOfDoctorByDepartment = doctors.stream()
-                .collect(Collectors.groupingBy(Doctor::getDepartment,
-                        Collectors.counting()));
-      }*/
-
-}
+   }
 
